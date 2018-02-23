@@ -1,7 +1,7 @@
 ![Progress_Shield](https://img.shields.io/badge/Progress-10%25-brightgreen.svg)
 
 # Yestli
-Medical capable Arduino proyect.
+Medical capable Arduino project.
 Published under the GNU GPL 3.0 license, con can find more info in the [LICENSE](https://github.com/lordfriky/Yestli/blob/master/LICENSE) file.
 This project is been developed by:
 - Daniel Hernández Muñoz (me, [@lordfriky](https://github.com/lordfriky))
